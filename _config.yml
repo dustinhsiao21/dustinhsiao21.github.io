@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Dustin's website"
+title                    : "Dustin's murmur"
 title_separator          : "-"
 name                     : "Dustin Hsiao"
 description              : "My first website on github."
@@ -81,13 +81,13 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
   location         : "Taiwan"
-  email            :
+  email            : "dustinhsiao21@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "profile.php?id=1809879879"
   foursquare       :
   github           :
   google_plus      :
@@ -241,6 +241,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
