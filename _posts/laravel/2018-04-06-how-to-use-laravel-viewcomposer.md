@@ -3,9 +3,6 @@ layout: single
 title: 淺談Laravel 的 ViewComposer應用
 categories: [laravel]
 ---
-
-## 時機
-
 在Laravel內的ViewComposer可以用來處理不同畫面內用到相同參數的情況。舉例來說，現在有一個購物網站，網站內的某個店家可能會有許多頁面需要重複用到店家的基本資料，像是[關於我], [店家商品], [店家聯絡資料], [店家...], 一般我們會對每一個頁面(Controller)傳送固定的資料。舉例如下
 
 ```php

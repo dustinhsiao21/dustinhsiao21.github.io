@@ -4,8 +4,6 @@ title: 在VS Code內簡單使用Flow - Javascript靜態類型檢查工具
 categories: [js]
 ---
 
-## 在VS Code內簡單使用Flow - Javascript靜態類型檢查工具
-
 這邊文章要簡單介紹`Flow`這個Javascript的靜態類型檢查工具。Javascript是一個動態資料型態的程式語言，換言之在宣告變數的時候不需要指定型別，所以很可能會出現這樣的宣告方式:
 
 ```js
