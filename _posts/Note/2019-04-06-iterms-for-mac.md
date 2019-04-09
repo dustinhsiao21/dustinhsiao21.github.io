@@ -4,7 +4,7 @@ title: 透過在 Mac 上安裝iTerm2 活潑你的終端機
 categories: [note]
 ---
 
-![iterm2](/assets/images/iterm2.jpg)
+![iterm2](/assets/images/iterm2.png)
 
 `Iterm2`是可以取代Mac OSX的預設`Terminal`的套件，提供了比terminal更多樣化的功能，透過安裝`zsh` shell及zsh的管理套件`oh-my-zsh`，讓我們可以輕鬆的管理`zsh`的設定檔，並且加入許多`plugin`及`theme`，讓`iterm2`看起來更加活潑且好用。
 
