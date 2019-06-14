@@ -1,4 +1,8 @@
-## Laravel 開發環境安裝
+---
+layout: single
+title: Laravel 開發環境安裝
+categories: [laravel]
+---
 
 ### MySQL
 
