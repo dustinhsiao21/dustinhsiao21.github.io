@@ -4,6 +4,8 @@ title: Laravel 開發環境安裝
 categories: [laravel]
 ---
 
+近期剛好更換成 Mac 就順便來紀錄一下從無到有的laravel 環境建置過程。其中共包括`MySQL`, `Sequel Pro`, `Composer`, `laravel`, `valet`。因為有`valet`的關係，所以這編就先不介紹`apache`/`nginx`的安裝。
+
 ### MySQL
 
 選擇安裝Mysql 5.7版，使用`HomeBrew`，可以使用`brew info mysql`檢查目前穩定的版本，截至今天(2019/4/27)為止，stable版本為`8.0.15` ，筆者這邊示範安裝5.7版，輸入`brew install mysql@5.7`時可以看到目前版本為`5.7.25(bottled)[keg-only]`。
